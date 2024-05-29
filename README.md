@@ -2,7 +2,7 @@
 
 Submitted by: Stephanie Salgado
 
-Flixster+ 2.0 is a movie browsing app that allows users to browse ... [TODO] 
+Flixster+ 2.0 is a movie browsing app that allows users to browse popular movies. 
 
 Time spent: **8** hours spent in total
 
